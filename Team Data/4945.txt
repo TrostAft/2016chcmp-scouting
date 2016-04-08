@@ -1,0 +1,6 @@
+Auto:
+	Crossed rock wall
+
+Teleop:
+	Rock wall (x5)
+	Low goal (4s, ?a)

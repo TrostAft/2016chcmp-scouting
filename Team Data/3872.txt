@@ -1,0 +1,7 @@
+Auto:
+	Rock wall
+
+Teleop:
+	Rock wall (x3), Portcullis (x3), Moat (x1)
+	Low goal (3s, 3a)
+	Good cooperator

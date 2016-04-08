@@ -1,0 +1,7 @@
+Auto:
+	Low bar
+
+Teleop:
+	Low Goal (x2)
+	Portcullis (x2), Moat (x1), Low Bar (x2)
+	Challenged tower

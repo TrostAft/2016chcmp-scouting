@@ -1,0 +1,7 @@
+Auto:
+	Rock wall
+
+Teleop:
+	Rock wall (x1), Portcullis (x3), Sally port
+	High goal (0s, 2a)
+	Challenged tower

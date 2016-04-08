@@ -1,0 +1,7 @@
+Auto:
+	Crossed ramparts
+
+Teleop:
+	Low Goal (5s, 5a)
+	Sally port (x1)
+	Rock wall (x3)

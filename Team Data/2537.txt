@@ -1,0 +1,9 @@
+Auto:
+	Did nothing
+
+Teleop:
+	Crossed moat, rock wall (x4), crossed portcullis
+	Crossed drawbridge with help
+	Breached rock wall
+	Low goal (x4)
+	Challenged castle

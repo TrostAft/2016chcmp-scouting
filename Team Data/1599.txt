@@ -1,5 +1,15 @@
+<<<<<<< HEAD
+Auto:
+	Ramparts
+
+Teleop:
+	High goal (4a, 4s)
+	Ramparts (x2), Brick wall (x1)
+	Challenge
+=======
 Quals 38
 Good auto
 Nice shooter, better than ours
 Decent DT but is slower
 4/4 HG
+>>>>>>> ebb8a679d5eac9228557412f5502bc2c5290721e

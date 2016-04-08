@@ -1,0 +1,7 @@
+Auto:
+	Rock wall
+
+Teleop:
+	Low Goal (x3)
+	Chival de Frise (x1), Low Bar (x1)
+	Challenged tower

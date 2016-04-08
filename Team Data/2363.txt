@@ -1,0 +1,7 @@
+Auto:
+	Cheval Attempt, no success
+
+Teleop:
+	Low goal (3s, 3a)
+	Low bar, CHeval, Rock Wall
+	Quick climber

@@ -1,0 +1,9 @@
+Auto:
+	Rock Wall
+
+Teleop:
+	Low goal (3s, 3a)
+	Ramparts (x2), Rock wall (x1)
+	High Goal (1s, 2a)
+	Foul'ed for crossing through secret passage
+	Challenged tower

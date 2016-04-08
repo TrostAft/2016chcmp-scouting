@@ -1,0 +1,9 @@
+Auto:
+	Attemped to cross portcullis
+	Very slow
+
+Teleop:
+	Portcullis (x2)
+	High goal (x3) (3 attempts)
+	Low Bar (x3)
+	Low goal (x1) (1 attempt)

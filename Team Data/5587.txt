@@ -1,0 +1,5 @@
+Auto:
+	Nothing
+
+Teleop:
+	Chival de Frise (x2), Sally port (x1), Rock wall (x1), Low Bar (x3)

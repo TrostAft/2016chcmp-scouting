@@ -1,0 +1,7 @@
+Auto:
+	Rock wall
+
+Teleop:
+	Low goal (2s, 2a)
+	Rock wall (x2), Low bar (x1), Portcullis (x3)
+	Challenged tower

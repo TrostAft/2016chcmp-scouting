@@ -1,0 +1,8 @@
+Auto:
+	Crossed low bar
+
+Teleop:
+	Low goal (x4)
+	Crossed low bar (x2), sally port (x3)
+	Dropped a ball
+	Attempted scale (Failed)

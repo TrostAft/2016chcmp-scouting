@@ -1,0 +1,7 @@
+Auto:
+	Rock wall
+
+Teleop:
+	Low goal (x3)
+	Drawbridge
+	Challenged tower

@@ -1,0 +1,7 @@
+Auto:
+	Rock wall
+
+Teleop:
+	Rock wall (x2), Sally port (x2), Low bar (x1)
+	:wq
+

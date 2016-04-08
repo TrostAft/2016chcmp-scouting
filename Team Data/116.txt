@@ -1,0 +1,7 @@
+Auto:
+	Sally port attempt (Why?!)
+
+Teleop:
+	Not very good at cheval, 4a, 2s
+	Low bar (x2)
+	Attempted climb

@@ -1,0 +1,6 @@
+Auto:
+	Chival de Frise
+
+Teleop:
+	Cheval de Frise (x1), Sally port (x1)
+	Challenged tower

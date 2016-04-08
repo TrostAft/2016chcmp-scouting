@@ -1,0 +1,6 @@
+Auto:
+	Low bar
+
+Teleop:
+	Low bar (x4)
+	Challenged tower

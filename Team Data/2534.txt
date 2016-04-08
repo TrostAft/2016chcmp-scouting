@@ -1,0 +1,6 @@
+Auto:
+	Ramparts
+
+Teleop:
+	Ramparts (x5), Portcullis (x3)
+	Tried to climb tower
