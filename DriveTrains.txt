@@ -1,0 +1,349 @@
+116:
+	Rhino track
+	119.8 lbs
+	2 sims on each side, 4 total
+	Doesnt want to play defense, but could if needed
+
+122:
+	Would get pushed; cant push
+	90 lbs
+
+339:
+	113 lbs
+	excellent pusher
+	2 sims each side
+
+346:
+	118 lbs
+	2 sims, 2 mini sims
+	won playing defense and pushing other robots
+
+384:
+	2 sims each side; 4 total
+	better as offensive
+	117 lbs
+
+401:
+	nitrile treads
+	can push 180 pounds
+	"like a tractor"
+	118 lbs
+	says that they would be good at defense
+
+422:
+	93 lbs
+	3 sims each side; 6 total
+	west coast drive
+	6" pneu wheels
+	good traction
+	says thsat its good for defense
+	shoved a robot into its loew goal
+
+449:
+	6 sims
+	west coast drive
+	8.5" pneu wheels
+	good traction, says that would be good pusher
+	109 lbs
+
+540:
+	7.6" pneu wheels
+	2 each side, 4 total
+	say that theyre really good at defense
+	86 lbs
+
+612:
+	105 lbs
+	tank drive, 8" pneu wheels
+	4 sims
+	"umm... " waited a few secs, "wed be very good"
+	stopped some low goals
+623:
+	tank treads
+	114 lbs
+	not very maneuverable or fsst
+	2 total sims
+
+686:
+	tank treads
+	4 sims total
+	87 lbs
+	says that defense would be a waste, but say that they could possibly do it
+
+836:
+	4 sims total
+	8" pneu wheels
+	84 lbs
+	nev er did any defense, but says that they have pushed alliance mates through obstacles
+
+888:
+	8" pneu
+	2 sims esch side, 4 total
+	118 lbs
+	ne r did defense, but says that they ciuld do ok
+
+977:
+	8" pneu wheels
+	94 lbs
+	4 total sims
+	did defense in blacksburg semi-finals and finals, say they did pretty well
+
+1086:
+	breckoflex treads
+	2 sims each side
+	103 lbs
+	got penalties when they did defense, they have pushing power, they pushed their coach in a tote
+
+1111:
+	8" pneu wheels
+	omnis in front
+	98 lbs
+	4 cims
+	say they can defend their tower very well, and have done it effectively
+
+1137:
+	8" pneu
+	2 cims each side
+	77 lbs
+	say they have good traction and quick speed
+
+1262:
+	8" pneu
+	onmis in back
+	2 cims
+	96 lbs
+	can push robots if they had to, prefers not to
+
+1389:
+	8" pneu
+	6 cims
+	high-torque, shut down robobees
+	113 lbs
+	takes ball from middle in auto, dspins around, ready to take more very quickly
+
+1413:
+	8" pneu
+	4 cims total
+	90 lbs
+	havent done defense, dont know how well theyd do
+
+1418:
+	8" pneu
+	4 cims
+	109 lbs
+	dont do defense, could do ok if they tried
+
+1599:
+	10" pneu "off a wagon"
+	2 cims per side; 4 total
+	105 lbs
+	never did defense, say they never would
+
+1610:
+	112 lbs
+	8" pneu
+	4 cim, 2 mini cim
+	can use arm as blocker
+
+1629:
+	8" pneu
+	4 cims
+	105 lbs
+	good traction, can push
+
+1719:
+	10" lawn mower wheels
+	2 cims each side
+	116 lbs
+	could defend well, say they could push well
+
+1731:
+	8" pneu wheels
+	4 cims
+	115 lbs
+	fast, could push, but would not prefer to do defense
+
+1829:
+	andymark treads
+	4 cims
+	75 lbs
+	cant do defense
+
+1885:
+	9" pneu
+	4 cims
+	120 lbs
+	knows defense well, has done so, pushed robots
+
+1895:
+	8" pneu
+	4 cims, tank drive
+	87 lbs
+	does not want to do defense
+
+2028:
+	8" pneu
+	west coast drive
+	4 cims
+	94 lbs
+	could do defense, has done so well
+
+2068:
+	8" pneu
+	4 cims
+	100 lbs
+	could possibly do defense, but havent before
+
+2363:
+	107 lbs
+	8" pneu
+	4 cims
+	strong drive train, did defense well yesgterday
+	2nd to highest dpr
+
+2377:
+	119.5 lbs
+	brecoflex treads
+	4 cims
+	have played defense, did it well, blocked robots
+
+2421:
+	different pneu wheels
+	4 cims
+	90 lbs
+	doesnt want to do defense, cant really do it
+
+2534:
+	12.5" pneu
+	4 cims
+	114 lbs
+	can easily push robots
+
+2537:
+	tank drive, 10" pneu
+	4 cims
+	107 lbs
+	can defend "really well", has done it a lot
+	is mainly defensive
+
+2849:
+	very good robot
+
+2912:
+	odd wheels, lots of traction
+	4 cims
+	86 lbs
+	did defense before, pushed robots
+
+3389:
+	10" pneu
+	4 cims, direct drive
+	78 lbs
+	does not defend, would not do it well
+
+3455:
+	8" pneu
+	4 cims
+	90 lbs
+	could do defense, could push ok, "pretty fast"
+
+3872:
+	rhino treads
+	2 cims total
+	just under 50 lbs
+	prefers not to do defense, could accidentially drive over a robot
+	broke their robot on defense
+
+3941:
+	6" pneu
+	4 cims
+	90 lbs
+	good at defense, hsve good defensive strategy
+
+4242:
+	8" pneu
+	4 cims
+	74 lbs
+	never did defense, but say they could do it pretty good
+
+4286:
+	8" pneu
+	4 cims
+	tank drive
+	100 lbs
+	cant do defense
+
+4456:
+	tank drive
+	8" pneu
+	2 cims
+	94 lbs
+	"defending is our best"
+
+4505:
+	plaction wheels
+	4 cims
+	~100 lbs
+	not a good defensive robot
+
+4638:
+	9" pneu
+	4 cims
+	117 lbs
+	average at defensive capability
+
+5115:
+	8" pneu
+	4 cims
+	85 lbs
+	can not play defense
+
+5279:
+	rhino treads
+	4 cims
+	67 lbs
+	could possibly push robots, but have never done defense
+
+5338:
+	8" pneu
+	4 cims
+	98 lbs
+	can defend well, do it a lot during elimination, pushed robots, have good strategy
+
+5546:
+	10" rubber pneumatiic tailored tires
+	2 cims
+	115 lbs
+	can block high goals, strong pusher
+
+5587:
+	8" wheels
+	tank drive
+	4 cims
+	82 lbs
+	can push people, not overly well, doesnt prefer to defend
+
+5804:
+	rhino tread
+	4 cims
+	92 lbs
+	could be a good defense, but typically doesnt, says that doing derfensewould be a bad choice
+
+5841:
+	only person in pit was one mentor
+	similr to rhino, might be rhino
+	4 cims
+	<100 lbs
+	skilled driver, doesnt know if could do defense
+
+5957:
+	8", 6" wheels
+	4 cims
+	45 lbs
+	mainly defense bot, get in way of high and low ggoal shooters
+
+6194:
+	KOP wheels
+	4 cims
+	65 lbs
+	can defend, hit robots while theyre shooting
